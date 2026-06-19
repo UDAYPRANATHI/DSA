@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UDAYPRANATHI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/UDAYPRANATHI/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/UDAYPRANATHI/DSA/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/UDAYPRANATHI/DSA/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/UDAYPRANATHI/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
