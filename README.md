@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UDAYPRANATHI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/UDAYPRANATHI/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/UDAYPRANATHI/DSA/tree/master/0066-plus-one) |
+| [0704-binary-search](https://github.com/UDAYPRANATHI/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/UDAYPRANATHI/DSA/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/UDAYPRANATHI/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
